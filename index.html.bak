@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Rolf Moeckel</title>
+    <style type="text/css">
+       a:link {color: darkblue;}      /* unvisited link */
+       a:visited {color: darkblue;}   /* visited link */
+       a:hover {color: blue;}     /* mouse over link */
+       a:active {color: blue;}    /* selected link */
+    </style>
+  </head>
+  <body style="            background-image: url(&quot;graphics/nolli_06_r.jpg&quot;); font-family: Arial,Helvetica,sans-serif;">
+    <table style="width: 700pt" align="center" border="0">
+      <tbody>
+        <tr>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table style="border:10px solid white; width: 100%;" bgcolor="white">
+              <tbody>
+                <tr>
+                  <td colspan="3"><i><font size="10"><a href="index.html" style="text-decoration: none">Rolf
+                          Moeckel</a></font></i><br>
+                  </td>
+                  <td style="text-align: right;" colspan="4"><a href="http://www.umd.edu"><img
+                        alt="University of Maryland"
+                        src="graphics/UMD-logo.jpg"
+                        width="300px"></a><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td><br>
+                  </td>
+                  <td style="height: 9.5167px;"><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="width: 16%; vertical-align: top;" rowspan="3"><img
+                      style="width: 90px; height: 414px;"
+                      title="City View"
+                      alt="City View"
+                      src="graphics/cityView.jpg"><br>
+                  </td>
+                  <td style="width: 16%; height: 33.2667px;"><a href="research.html">Research</a></td>
+                  <td style="width: 16%;"><a href="biography.html">Bio</a></td>
+                  <td style="width: 16%;"><a href="teaching.html">Teaching</a></td>
+                  <td style="width: 16%;"><a href="publications.html">Publications</a></td>
+                  <td style="width: 16%;"><a href="contact.html">Contact</a></td>
+                </tr>
+                <tr>
+                  <td><br>
+                  </td>
+                  <td style="height: 26.2px;"><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="width: 100%; vertical-align: bottom;" colspan="4">As
+                    a Faculty Research Associate, I am working at the National
+                    Center for Smart Growth Research and Education at the
+                    University of Maryland. My research focuses on developing
+                    integrated land-use/transportation models and finding ways
+                    of making such models useful for decision makers in urban
+                    and regional planning. <br>
+                    <br>
+                    Outside work, I enjoy hiking in National Parks and singing
+                    with the National Philharmonic Chorale.<br>
+                  </td>
+                  <td align="right"> <img style="height: 350px;" title="Rolf Moeckel"
+                      alt="Rolf Moeckel"
+                      src="graphics/rm.jpg">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align: right;"><font size="-2">© Copyright 2014
+                Rolf Moeckel </font></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

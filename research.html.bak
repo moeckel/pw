@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Research</title>
+    <style type="text/css">
+       a:link {color: darkblue;}      /* unvisited link */
+       a:visited {color: darkblue;}   /* visited link */
+       a:hover {color: blue;}     /* mouse over link */
+       a:active {color: blue;}    /* selected link */
+    </style>
+  </head>
+  <body style="                          background-image: url(&quot;graphics/nolli_06_r.jpg&quot;); font-family: Arial,Helvetica,sans-serif;">
+    <table style="width: 700pt" align="center" border="0">
+      <tbody>
+        <tr>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table style="border:10px solid white; width: 100%;" bgcolor="white">
+              <tbody>
+                <tr>
+                  <td colspan="3"><i><font size="10"><a href="index.html" style="text-decoration: none">Rolf
+                          Moeckel</a></font></i><br>
+                  </td>
+                  <td style="text-align: right;" colspan="4"><a href="http://www.umd.edu"><img
+                        alt="University of Maryland"
+                        src="graphics/UMD-logo.jpg"
+                        width="300px"></a><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td><br>
+                  </td>
+                  <td style="height: 9.5167px;"><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="width: 16%; vertical-align: top;" rowspan="3"><img
+                      style="width: 90px; height: 414px;"
+                      title="City View"
+                      alt="City View"
+                      src="graphics/cityView.jpg"><br>
+                  </td>
+                  <td style="width: 16%; color: #0B6121; height: 33.2667px;"><b>Research</b></td>
+                  <td style="width: 16%;"><a href="biography.html">Bio</a></td>
+                  <td style="width: 16%;"><a href="teaching.html">Teaching</a></td>
+                  <td style="width: 16%;"><a href="publications.html">Publications</a></td>
+                  <td style="width: 16%;"><a href="contact.html">Contact</a></td>
+                </tr>
+                <tr>
+                  <td><br>
+                  </td>
+                  <td style="height: 26.2px;"><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="width: 100%; vertical-align: top;" colspan="5">My
+                    research interests focus on the development of integrated
+                    land-use/transportation projects and their application in
+                    urban and regional planning. This section lists the most
+                    relevant research projects I am currently working on.<br>
+                    <br>
+                    <br>
+                    <a id="silo"><strong>SILO: Simple Integrated Land-Use
+                        Orchestrator</strong></a><br>
+                    <br>
+                    <img title="SILO" alt="SILO" src="graphics/siloLogoTown.jpg"
+                      align="right"
+                      width="200px">SILO
+                    is a new land-use model that is designed as a discrete
+                    choice microsimulation model. Discrete choice means that
+                    decisions (such as a decision of a household to move to a
+                    new dwelling) are modeled explicitly based on utilities at
+                    the current dwelling location and expected utilities at
+                    alternative dwelling locations. Being a microsimulation
+                    model, every household and person is simulated individually.
+                    SILO models household relocation, non-spatial demographic
+                    changes (such as birth, aging, marriage or having children),
+                    developers' decisions to build new residential buildings and
+                    change of dwellings over time (including renovation,
+                    deterioration and demolition). <br>
+                    <br>
+                    SILO is built as a middle-weight tool. It is fully
+                    integrated with a travel demand model, and therefore, more
+                    complex than sketch-planning tools (such as CommunityViz or
+                    UPlan). On the other hand, it is built to function with less
+                    rigorous data collection and estimation requirements, making
+                    SILO simpler to implement than traditional large-scale
+                    land-use models (such as PECAS or UrbanSim). <br>
+                    <br>
+                    SILO is an open-source software and was initially developed
+                    with funding by Parsons Brinckerhoff. The prototype
+                    application was implemented for the Metropolitan Area of
+                    Minneapolis/St. Paul, Minnesota. Currently, an updated
+                    version is implemented for the State of Maryland, funded by
+                    the Maryland Department of Transportation. I have designed
+                    and implemented this model. The <a href="http://silo.zone">SILO</a> website provides further
+                    information. <br>
+                    <br>
+                    <br>
+                    <a id="mstm"><strong>MSTM: Maryland Statewide Transportation
+                        Model</strong></a><br>
+                    <br>
+                    <img title="MSTM Study Area" alt="MSTM Study Area" src="graphics/mstmBaseMap.png"
+                      align="right"
+                      width="300px">The
+                    Maryland Statewide Transportation Model (MSTM) is an
+                    advanced trip-based model that covers the State of Maryland
+                    plus surrounding areas at the statewide layer and the
+                    remainder of North America at the regional layer. Since
+                    2006, the Maryland State Highway Administration (SHA) has
+                    developed the MSTM with support from the National Center for
+                    Smart Growth (NCSG) at the University of Maryland and
+                    Parsons Brinckerhoff. MSTM is a multi-level model that
+                    covers local trips and long-distance trips as well as person
+                    travel and freight. It has become a policy decision support
+                    tool that is applied extensively for scenario analysis,
+                    corridor studies, project forecasts and future
+                    transportation performance measurement.<br>
+                    <br>
+                    The MSTM is designed as a multi-level model that currently
+                    works at two geographies. The statewide level covers not
+                    only the State of Maryland but also surrounding areas,
+                    including Washington, D.C., Delaware, and parts of New
+                    Jersey, Pennsylvania, Virginia and West Virginia. The
+                    national layer covers Continental North America, including
+                    Canada and Mexico. This national layer accounts for all
+                    long-distance trips. A more detailed description of the MSTM
+                    can be found on <a href="http://tfresource.org/Maryland_Statewide_Transportation_Model">tfresource</a>.<br>
+                    <br>
+                    I have worked on most modules of the MSTM, some of which I
+                    designed from scratch. Currently, I am revising the model to
+                    work from a Synthetic Population that has been created with
+                    SILO, and on integrating the MSTM with an auto-ownership
+                    model. <br>
+                    <br>
+                    <br>
+                    <a id="raster"><strong>Redefining Spatial Resolution in
+                        Modeling</strong></a><br>
+                    <br>
+                    Travel demand models use zones as origins and destinations
+                    of trips. Commonly, such zones are derived from census
+                    tracts or other spatial definitions of neighborhoods. Urban
+                    zones are smaller and rural zones are larger, but
+                    consistency in spatial resolution across the study area is
+                    rarely achieved. Creating a new zone system is a manual and
+                    laborious effort, and therefore, rarely undertaken. <br>
+                    <br>
+                    <table align="right" border="0" width="301">
+                      <tbody>
+                        <tr>
+                          <td><img title="Raster Cells for Georgia" alt="Raster Cells for Georgia"
+                              src="graphics/raster.png"
+                              align="right"
+                              width="300px"></td>
+                        </tr>
+                        <tr>
+                          <td> <font size="-1">Raster cells in Georgia: Atlanta
+                              to Chattanooga</font></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    For the Georgia statewide model, I developed a method to
+                    generate raster cells that are smaller in urban areas and
+                    larger in rural areas. By allocating many smaller raster
+                    cells to dense areas, resources are allocated most
+                    efficiently. The resolution across the study area is
+                    consistent, i.e. the resolution changes with density and
+                    different areas with the same density receive approximately
+                    the same number of raster cells. The procedure is very
+                    flexible and can generate just a few raster cells or many
+                    raster cells, depending on the resolution needed for a
+                    certain purpose. This raster cell procedure is currently
+                    refined for the <a href="#mstm">Maryland Statewide
+                      Transportation Model</a>. With help of the graduate
+                    student Yuchen Cui, raster cells are not defined based on
+                    population and employment (as implemented in Georgia) but
+                    based on number of trips generated.&nbsp; </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align: right;"><font size="-2">© Copyright 2014
+                Rolf Moeckel </font></div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
